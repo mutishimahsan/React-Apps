@@ -1,5 +1,6 @@
 import React from 'react'
 import Logo from '../Logo'
+import { Link } from 'react-router'
 
 function Footer() {
   return (
@@ -13,7 +14,7 @@ function Footer() {
               </div>
               <div>
                 <p className="text-sm text-gray-600">
-                  &copy; Copyright 2023. All Rights Reserved by DevUI.
+                  &copy; Copyright 2025. All Rights Reserved by Learning.
                 </p>
               </div>
             </div>
